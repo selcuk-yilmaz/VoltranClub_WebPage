@@ -36,8 +36,7 @@ header h1 {
 .main-nav ul{
     font-size: 1.5rem;
     padding: 0px 20px;
-    white-space: nowrap;
-   
+    white-space: nowrap;  
 }
 .main-nav li {
     display: inline-block;
@@ -64,8 +63,7 @@ main{
 
 } 
 main article{
-    margin: 70px auto;
-    
+    margin: 70px auto;   
 } 
 main article h2{
     font-size: 2.8rem;
@@ -79,14 +77,12 @@ main article p{
     color: #4b4b4b;
     text-align: justify;
 
-
 }
 main article p::first-line{
     font-weight: bold;
     font-size: 1.3rem;
 }
 main ul{
-   
     white-space: nowrap;
 
 }
@@ -105,7 +101,6 @@ main img:last-child{
     width: 80%;
 }
 .images li:hover{
-    
     top: -10px
 }
 .join{
